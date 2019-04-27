@@ -153,6 +153,7 @@ h5 {
 body {
 	background: white;
 	max-width: 950px;
+	margin: 0 auto;
 }
 header {
 	margin-bottom: 50px;
