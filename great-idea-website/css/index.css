@@ -152,7 +152,7 @@ h5 {
 /* Your code starts here! */
 body {
 	background: white;
-	width: 100%;
+	max-width: 950px;
 }
 header {
 	margin-bottom: 50px;
@@ -194,7 +194,7 @@ header img {
 	text-decoration: none;
 	position: relative;
 	bottom: 90px;
-	left: 130px;
+	left: 150px;
 }
 .headline {
 	border-bottom: 1px solid black;
